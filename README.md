@@ -11,9 +11,7 @@ John Doe belongs to this groups: `Artists` and `Students`
 
 
 You create a new article:
-    Hello User, 
-    you are in the following groups: {{UserGroups}}
+`Hello User, you are in the following groups: {{UserGroups}}`
 
 On the website, John Doe can see following:
-    Hello User, 
-    you are in the following groups: Artists, Students`
+`Hello User, you are in the following groups: Artists, Students`
