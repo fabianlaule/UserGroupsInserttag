@@ -15,3 +15,8 @@ You create a new article:
 
 On the website, John Doe can see following:
 `Hello User, you are in the following groups: Artists, Students`
+
+Please notice:
+---------
+This extension requires Contao 3.1 or greater. 
+If you find a bug or you need the support for a newer version of Contao, please open a new issue.
